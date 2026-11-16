@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; flex-direction: row; justify-content: space-between;">
+        <ui:Label text="0" name="Player1ScoreCount" style="height: 45px; font-size: 80px; -unity-font-definition: url(&quot;project://database/Assets/UI/BleedingPixels.ttf?fileID=12800000&amp;guid=dc079c341ccf6d74ea77470347a0202b&amp;type=3#BleedingPixels&quot;); padding-left: 2px; margin-left: 15px; margin-top: 20px; -unity-text-outline-width: 2px; color: rgb(255, 255, 255); -unity-text-align: upper-right;"/>
+        <ui:Label text="0" name="Player2ScoreCount" style="height: 45px; font-size: 80px; -unity-font-definition: url(&quot;project://database/Assets/UI/BleedingPixels.ttf?fileID=12800000&amp;guid=dc079c341ccf6d74ea77470347a0202b&amp;type=3#BleedingPixels&quot;); padding-left: 2px; margin-left: 4px; margin-top: 20px; -unity-text-outline-width: 2px; color: rgb(255, 255, 255); margin-right: 15px;"/>
+    </ui:VisualElement>
+</ui:UXML>
